@@ -1,0 +1,12 @@
+Checkout the Website: https://builtin.com/data-science/dunder-methods-python
+for more understanding of dunder methods
+But some use cases of dunder methods are: 
+
+5 DUNDER METHODS TO KNOW:
+    1.Operator Dunder Methods
+    2.__str__
+    3.__len__
+    4.Assignment Dunder Methods
+    5.__getitem__
+
+Checkout the website to read deeply abt the above mentioned dunder methods.
