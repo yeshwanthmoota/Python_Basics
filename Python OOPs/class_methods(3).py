@@ -5,7 +5,7 @@
 #--------------------------------------------------------------------
 class Phone_store:
     
-    no_of_models=0
+    no_of_models=0 #This is a class variable.
     discount=0.20 #This is a class variable.    
 
     def __init__(self,company,model,price):

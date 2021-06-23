@@ -107,7 +107,7 @@ c4=c1+c2
 # OR
 print(c4)
 
-print(c1*c2)
+print(c1*c2) # This is getting printed due to the use of __str__() method.
 
 print(c1/c2)
 
